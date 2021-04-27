@@ -1,4 +1,4 @@
-let colorbtn = document.querySelector(".filter");
+let colorbtn = document.querySelectorAll(".filter");
 let mainContainer = document.querySelector(".bottom-container");
 
 for(let i=0; i<colorbtn.length; i++)
